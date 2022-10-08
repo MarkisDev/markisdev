@@ -44,7 +44,7 @@ class Runner:
                     result = self.game.checkBoard(row)
                     if (result == True):
                         self.game.genCode()
-                        self.game.data['winner'] = self.github.issue.user.html_url
+                        self.game.data['winner'] = self.github.issue.user.login
                         self.updateData(f'@{self.username} won and started a new game!')
                         self.github.addComment(f'Congratulations @{self.username}!\n You won :tada:')
                         self.github.addLabel('winner')
