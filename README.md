@@ -115,6 +115,7 @@ Databases:
 <summary> <h4> :clipboard: Click here for the rules </h4> </summary>
 <ul>
 <li> The objective of the game is to find the correct sequence of colors chosen by the computer </li>
+<li> The computer will <b> always choose unique colors, </b> it will not repeat any color </li>
 <li> When each row of the board is filled, the computer will give you two hints </li>
 <li> It will tell you the number of colors which are present in the code </li>
 <li> It will also tell you the number of colors which are present in the correct position as well </li>
