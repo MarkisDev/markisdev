@@ -273,7 +273,7 @@ To make a move, click on **one of the colors** from below :point_down:
           </a>
         </td>
         <td>
-          <a href="https://github.com/markisdev/mastermind/issues/new?title=mastermind|orange">
+          <a href="https://github.com/markisdev/markisdev/issues/new?title=mastermind|orange&body=Push 'Submit new issue' without editing the title. The README will be updated in 30 seconds."">
             <img src="images/orange.png">
           </a>
         </td>
