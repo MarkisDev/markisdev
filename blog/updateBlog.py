@@ -7,10 +7,18 @@ import os
 
 
 class BlogUpdater:
-    def __init__(self, filepath, token, repository, validMoves):
+    def __init__(self, filepath, token, repository, validMoves, eventType):
         self.filepath = filepath
         self.repo = Github(token).get_repo(repository)
         self.validMoves = validMoves
+        self.type = eventType
+        if (eventType != 'workflow_dispatch'):
+            self.issue = self.repo.get_issue(os.environ['ISSUE_NUMBER'])
+
+    def closeIssue(self):
+        self.issue.edit(state="closed")
+        self.issue.create_comment('Updated blogs :rocket:')
+        self.issue.set_labels('blog')
 
     def getFileData(self):
         self.file = self.repo.get_contents(
@@ -67,9 +75,6 @@ class BlogUpdater:
                 temp.append(issue)
                 temp_dt.append(issue.created_at)
         if len(temp) <= 1:
-            temp[0].edit(state="closed")
-            temp[0].create_comment('Updated blogs :rocket:')
-            temp[0].set_labels('blog')
             return True
         else:
             minIssue = temp[temp_dt.index(min(temp_dt))]
@@ -83,14 +88,13 @@ class BlogUpdater:
                     minIssue.create_comment('Invalid issue, closing it...')
                     return self.isValid()
             else:
-                minIssue.edit(state="closed")
-                minIssue.create_comment('Updated blogs :rocket:')
-                minIssue.set_labels('blog')
                 return True
 
 
 if __name__ == '__main__':
     run = BlogUpdater('README.md', os.environ['TOKEN'], os.environ['REPO'], [
-                      'blog', 'mastermind'])
+                      'blog', 'mastermind'], os.environ['TYPE'])
     if run.isValid():
         run.genRecentPosts()
+    if run.type != 'workflow_dispatch':
+        run.closeIssue()

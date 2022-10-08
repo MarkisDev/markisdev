@@ -35,4 +35,5 @@ jobs:
           REPO: ${{github.repository}}
           ISSUE_NUMBER: ${{github.event.issue.number}}
           TOKEN: ${{github.token}}
+          TYPE: ${{github.event_name}}
         run: python blog/updateBlog.py
