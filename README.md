@@ -246,29 +246,29 @@ To make a move, click on **one of the colors** from below :point_down:
     <table>
       <tr>
         <th>
-          <a href="https://github.com/markisdev/mastermind/issues/new?title=mastermind|red">
+          <a href="https://github.com/markisdev/markisdev/issues/new?title=mastermind|red&body=Push 'Submit new issue' without editing the title. The README will be updated in 30 seconds.">
             <img src="images/red.png">
           </a>
         </th>
         <th>
-          <a href="https://github.com/markisdev/mastermind/issues/new?title=mastermind|blue">
+          <a href="https://github.com/markisdev/markisdev/issues/new?title=mastermind|blue&body=Push 'Submit new issue' without editing the title. The README will be updated in 30 seconds.">
             <img src="images/blue.png">
           </a>
         </th>
         <th>
-          <a href="https://github.com/markisdev/mastermind/issues/new?title=mastermind|white">
+          <a href="https://github.com/markisdev/markisdev/issues/new?title=mastermind|white&body=Push 'Submit new issue' without editing the title. The README will be updated in 30 seconds.">
             <img src="images/white.png">
           </a>
         </th>
       </tr>
       <tr>
         <td>
-          <a href="https://github.com/markisdev/mastermind/issues/new?title=mastermind|purple">
+          <a href="https://github.com/markisdev/markisdev/issues/new?title=mastermind|purple&body=Push 'Submit new issue' without editing the title. The README will be updated in 30 seconds.">
             <img src="images/purple.png">
           </a>
         </td>
         <td>
-          <a href="https://github.com/markisdev/mastermind/issues/new?title=mastermind|green">
+          <a href="https://github.com/markisdev/markisdev/issues/new?title=mastermind|green&body=Push 'Submit new issue' without editing the title. The README will be updated in 30 seconds.">
             <img src="images/green.png">
           </a>
         </td>
