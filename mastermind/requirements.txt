@@ -1,0 +1,6 @@
+requests
+python-dotenv
+PyGithub
+dominate
+feedparser
+python-dateutil
