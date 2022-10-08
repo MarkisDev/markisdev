@@ -93,4 +93,4 @@ if __name__ == '__main__':
     run = BlogUpdater('README.md', os.environ['TOKEN'], os.environ['REPO'], [
                       'blog', 'mastermind'])
     if run.isValid():
-        run.playMove()
+        run.genRecentPosts()
