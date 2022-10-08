@@ -3,16 +3,15 @@ name: Update Blogs
 on:
   issues:
     types: [opened]
-  workflow_dispatch:
   schedule:
-    - cron: "8,28,48 * * * *"
+    - cron: "*/5 * * * *"
 
 jobs:
   build:
     runs-on: ubuntu-latest
     if: |
       startsWith(github.event.issue.title, 'blog|') 
-      || github.event_name == 'workflow_dispatch'
+      || github.event_name == 'schedule'
     steps:
       - name: Check out repo
         uses: actions/checkout@v2
