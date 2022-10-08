@@ -112,7 +112,7 @@ Databases:
   <!--END METADATA-->
 
 <details>
-<summary> <h4> :clipboard: Click here for the rules of the game </h4> </summary>
+<summary> <h4> :clipboard: Click here for the rules </h4> </summary>
 <ul>
 <li> The objective of the game is to find the correct sequence of colors chosen by the computer </li>
 <li> When each row of the board is filled, the computer will give you two hints </li>
