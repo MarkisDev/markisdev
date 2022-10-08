@@ -13,7 +13,7 @@ class BlogUpdater:
         self.validMoves = validMoves
         self.type = eventType
         if (eventType != 'workflow_dispatch'):
-            self.issue = self.repo.get_issue(os.environ['ISSUE_NUMBER'])
+            self.issue = self.repo.get_issue(int(os.environ['ISSUE_NUMBER']))
 
     def closeIssue(self):
         self.issue.edit(state="closed")
