@@ -55,48 +55,44 @@ Databases:
 </p>
 </details>
 
-<!--BEGIN BLOGS-->
-<details>
-    <summary> 💪 <b> Click here for my skills </b></summary>
+  <!--BEGIN BLOGS-->
+  <details>
+    <summary>
+      <b>:rocket: Click here for my blogs</b>
+    </summary><br>
+    <table>
+      <tr>
+        <th>Thotflow</th>
+        <th>Hashnode</th>
+      </tr>
+      <tr>
+        <td>
+          <a href="https://thotflow.xyz/posts/detachment/">Detachment - What?</a>
+        </td>
+        <td>
+          <a href="https://rijuth.hashnode.dev/google-sign-in-with-getx">Firebase Authentication with GetX - Google Sign-in</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="https://thotflow.xyz/posts/locus-of-control/">Locus of Control</a>
+        </td>
+        <td>
+          <a href="https://rijuth.hashnode.dev/diffie-hellman-exchange">Understanding Diffie-Hellman Key Exchange</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="https://thotflow.xyz">Click here for more! :zap: </a>
+        </td>
+        <td>
+          <a href="https://rijuth.hashnode.dev">Click here for more! :zap: </a>
+        </td>
+      </tr>
+    </table>
+  </details>
+  <!--END BLOGS-->
 
-<br />
-    
-Languages:
-
-<p>
-    <a><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /></a>
-    <a><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /><a>
-    <a><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
-    <a><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white" /><a>
-    <a><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" /></a>
-</p>
-
-Backend frameworks:
-
-<p>
-    <a><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></a>
-    <a><img src="https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=flask&logoColor=black" /><a>
-    <a><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" /><a>
-    <a><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /><a>
-
-</p>
-
-Frontend frameworks:
-
-<p>
-    <a><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /><a>
-    <a><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><a>
-    <a><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /><a>
-</p>
-        
-Databases:
-<p>
-    <a><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /><a>
-     <a><img src="https://img.shields.io/badge/Firebase-FF8A65?style=for-the-badge&logo=firebase&logoColor=white" /><a>
-    <a><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /><a>
-</p>
-</details>
-<!--END BLOGS-->
 <!--END PROFILE-->
 
 ## :game_die: Join my community Mastermind game!
