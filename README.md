@@ -100,11 +100,14 @@ Databases:
   <!--BEGIN METADATA-->
   <div>
     <p>
-      <img src="https://img.shields.io/badge/Moves%20played-60-blue?style=for-the-badge">
-      <img src="https://img.shields.io/badge/Completed%20games-3-brightgreen?style=for-the-badge">
-      <img src="https://img.shields.io/badge/Total%20players-1-blueviolet?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Moves%20played-1-blue?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Completed%20games-0-brightgreen?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Total%20players-0-blueviolet?style=for-the-badge">
     </p>
-    <p><b>:trophy: Recent winner is <a href="https://github.com/MarkisDev">@MarkisDev</a> :tada:</b></p>
+    <p>
+      <b></b>:trophy: Recent user with winning move is 
+      <a href="https://github.com/MarkisDev">@MarkisDev</a> :tada:
+    </p>
   </div>
   <!--END METADATA-->
 
@@ -126,7 +129,7 @@ Databases:
     <table>
       <tr>
         <th>Position : 0
-          <th>Color : 2</th>
+          <th>Color : 0</th>
         </th>
       </tr>
     </table>
@@ -135,72 +138,72 @@ Databases:
     <table>
       <tr>
         <th>
-          <img src="images/blue.png">
-        </th>
-        <th>
-          <img src="images/blue.png">
-        </th>
-        <th>
-          <img src="images/blue.png">
-        </th>
-        <th>
           <img src="images/white.png">
         </th>
+        <th>
+          <img src="images/blank.png">
+        </th>
+        <th>
+          <img src="images/blank.png">
+        </th>
+        <th>
+          <img src="images/blank.png">
+        </th>
       </tr>
       <tr>
         <td>
-          <img src="images/red.png">
+          <img src="images/blank.png">
         </td>
         <td>
-          <img src="images/blue.png">
+          <img src="images/blank.png">
         </td>
         <td>
-          <img src="images/orange.png">
+          <img src="images/blank.png">
         </td>
         <td>
-          <img src="images/blue.png">
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <img src="images/red.png">
-        </td>
-        <td>
-          <img src="images/orange.png">
-        </td>
-        <td>
-          <img src="images/blue.png">
-        </td>
-        <td>
-          <img src="images/blue.png">
+          <img src="images/blank.png">
         </td>
       </tr>
       <tr>
         <td>
-          <img src="images/orange.png">
+          <img src="images/blank.png">
         </td>
         <td>
-          <img src="images/green.png">
+          <img src="images/blank.png">
         </td>
         <td>
-          <img src="images/red.png">
+          <img src="images/blank.png">
         </td>
         <td>
-          <img src="images/orange.png">
+          <img src="images/blank.png">
         </td>
       </tr>
       <tr>
         <td>
-          <img src="images/green.png">
+          <img src="images/blank.png">
         </td>
         <td>
-          <img src="images/red.png">
+          <img src="images/blank.png">
         </td>
         <td>
-          <img src="images/green.png">
+          <img src="images/blank.png">
         </td>
         <td>
-          <img src="images/orange.png">
+          <img src="images/blank.png">
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <img src="images/blank.png">
+        </td>
+        <td>
+          <img src="images/blank.png">
+        </td>
+        <td>
+          <img src="images/blank.png">
+        </td>
+        <td>
+          <img src="images/blank.png">
         </td>
       </tr>
       <tr>
@@ -294,7 +297,7 @@ To make a move, click on **one of the colors** from below :point_down:
           <a href="https://github.com/MarkisDev">@MarkisDev</a>
         </td>
         <td>
-          <img src="images/orange.png">
+          <img src="images/white.png">
         </td>
       </tr>
       <tr>
@@ -305,16 +308,8 @@ To make a move, click on **one of the colors** from below :point_down:
           <img src="images/red.png">
         </td>
       </tr>
-      <tr>
-        <td>
-          <a href="https://github.com/MarkisDev">@MarkisDev</a>
-        </td>
-        <td>
-          <img src="images/orange.png">
-        </td>
-      </tr>
     </table>
   </div>
   <!--END RECENT_MOVES-->
-        
- *Pssst! The code chosen by computer is stored in <a href="board.json">board.json</a> with **base64** encoding :eyes:*
+
+*Pssst! The code chosen by computer is stored in <a href="board.json">board.json</a> with **base64** encoding :eyes:*
