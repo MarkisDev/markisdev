@@ -1,0 +1,5 @@
+requests
+PyGithub
+dominate
+feedparser
+python-dateutil
