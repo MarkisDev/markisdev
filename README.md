@@ -312,4 +312,4 @@ To make a move, click on **one of the colors** from below :point_down:
   </div>
   <!--END RECENT_MOVES-->
 
-*Pssst! The code chosen by computer is stored in <a href="board.json">board.json</a> with **base64** encoding :eyes:*
+*Pssst! The code chosen by computer is stored in <a href="mastermind/board.json">board.json</a> with **base64** encoding :eyes:*
