@@ -130,7 +130,7 @@ Databases:
     <table>
       <tr>
         <th>Position : 0
-          <th>Color : 0</th>
+          <th>Color : 3</th>
         </th>
       </tr>
     </table>
