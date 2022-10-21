@@ -137,8 +137,8 @@ Databases:
   <div align="left">
     <table>
       <tr>
-        <th>Position : 1
-          <th>Color : 1</th>
+        <th>Position : 0
+          <th>Color : 3</th>
         </th>
       </tr>
     </table>
