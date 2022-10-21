@@ -108,13 +108,13 @@ Databases:
   <!--BEGIN METADATA-->
   <div>
     <p>
-      <img src="https://img.shields.io/badge/Moves%20played-88-blue?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Moves%20played-89-blue?style=for-the-badge">
       <img src="https://img.shields.io/badge/Completed%20games-7-brightgreen?style=for-the-badge">
       <img src="https://img.shields.io/badge/Total%20players-3-blueviolet?style=for-the-badge">
     </p>
     <p>
       <b></b>:trophy: Recent user with winning move is 
-      <a href="https://github.com/wonhyeongseo">@wonhyeongseo</a> :tada:
+      <a href="https://github.com/MarkisDev">@MarkisDev</a> :tada:
     </p>
   </div>
   <!--END METADATA-->
@@ -147,7 +147,7 @@ Databases:
     <table>
       <tr>
         <th>
-          <img src="images/blank.png">
+          <img src="images/orange.png">
         </th>
         <th>
           <img src="images/blank.png">
@@ -303,10 +303,10 @@ To make a move, click on **one of the colors** from below :point_down:
       </tr>
       <tr>
         <td>
-          <a href="https://github.com/wonhyeongseo">@wonhyeongseo</a>
+          <a href="https://github.com/BhargavKadali39">@BhargavKadali39</a>
         </td>
         <td>
-          <img src="images/white.png">
+          <img src="images/orange.png">
         </td>
       </tr>
       <tr>
