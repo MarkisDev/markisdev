@@ -109,12 +109,12 @@ Databases:
   <div>
     <p>
       <img src="https://img.shields.io/badge/Moves%20played-88-blue?style=for-the-badge">
-      <img src="https://img.shields.io/badge/Completed%20games-6-brightgreen?style=for-the-badge">
-      <img src="https://img.shields.io/badge/Total%20players-2-blueviolet?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Completed%20games-7-brightgreen?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Total%20players-3-blueviolet?style=for-the-badge">
     </p>
     <p>
       <b></b>:trophy: Recent user with winning move is 
-      <a href="https://github.com/MarkisDev">@MarkisDev</a> :tada:
+      <a href="https://github.com/wonhyeongseo">@wonhyeongseo</a> :tada:
     </p>
   </div>
   <!--END METADATA-->
@@ -137,8 +137,8 @@ Databases:
   <div align="left">
     <table>
       <tr>
-        <th>Position : 1
-          <th>Color : 1</th>
+        <th>Position : 0
+          <th>Color : 0</th>
         </th>
       </tr>
     </table>
@@ -147,86 +147,86 @@ Databases:
     <table>
       <tr>
         <th>
-          <img src="images/red.png">
+          <img src="images/blank.png">
         </th>
         <th>
-          <img src="images/green.png">
+          <img src="images/blank.png">
         </th>
         <th>
-          <img src="images/orange.png">
+          <img src="images/blank.png">
         </th>
         <th>
-          <img src="images/blue.png">
+          <img src="images/blank.png">
         </th>
       </tr>
       <tr>
         <td>
-          <img src="images/blue.png">
+          <img src="images/blank.png">
         </td>
         <td>
-          <img src="images/green.png">
+          <img src="images/blank.png">
         </td>
         <td>
-          <img src="images/red.png">
+          <img src="images/blank.png">
         </td>
         <td>
-          <img src="images/green.png">
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <img src="images/orange.png">
-        </td>
-        <td>
-          <img src="images/red.png">
-        </td>
-        <td>
-          <img src="images/orange.png">
-        </td>
-        <td>
-          <img src="images/green.png">
+          <img src="images/blank.png">
         </td>
       </tr>
       <tr>
         <td>
-          <img src="images/white.png">
+          <img src="images/blank.png">
         </td>
         <td>
-          <img src="images/blue.png">
+          <img src="images/blank.png">
         </td>
         <td>
-          <img src="images/purple.png">
+          <img src="images/blank.png">
         </td>
         <td>
-          <img src="images/red.png">
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <img src="images/red.png">
-        </td>
-        <td>
-          <img src="images/purple.png">
-        </td>
-        <td>
-          <img src="images/blue.png">
-        </td>
-        <td>
-          <img src="images/green.png">
+          <img src="images/blank.png">
         </td>
       </tr>
       <tr>
         <td>
-          <img src="images/orange.png">
+          <img src="images/blank.png">
         </td>
         <td>
-          <img src="images/purple.png">
+          <img src="images/blank.png">
         </td>
         <td>
-          <img src="images/red.png">
+          <img src="images/blank.png">
         </td>
         <td>
-          <img src="images/white.png">
+          <img src="images/blank.png">
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <img src="images/blank.png">
+        </td>
+        <td>
+          <img src="images/blank.png">
+        </td>
+        <td>
+          <img src="images/blank.png">
+        </td>
+        <td>
+          <img src="images/blank.png">
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <img src="images/blank.png">
+        </td>
+        <td>
+          <img src="images/blank.png">
+        </td>
+        <td>
+          <img src="images/blank.png">
+        </td>
+        <td>
+          <img src="images/blank.png">
         </td>
       </tr>
       <tr>
