@@ -12,7 +12,7 @@ class BlogUpdater:
         self.repo = Github(token).get_repo(repository)
         self.validMoves = validMoves
         self.type = eventType
-        if (eventType != 'schedule'):
+        if (eventType != 'schedule' and eventType != 'workflow_dispatch'):
             self.issue = self.repo.get_issue(int(os.environ['ISSUE_NUMBER']))
 
     def closeIssue(self):
