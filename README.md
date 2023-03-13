@@ -62,12 +62,12 @@ Databases:
     </summary><br>
     <table>
       <tr>
-        <th>Thotflow</th>
+        <th>Mindflux</th>
         <th>Hashnode</th>
       </tr>
       <tr>
         <td>
-          <a href="https://thotflow.xyz/posts/detachment/">Detachment - What?</a>
+          <a href="https://mindflux.xyz/posts/detachment/">Detachment - What?</a>
         </td>
         <td>
           <a href="https://rijuth.hashnode.dev/develop-your-own-github-readme-game">Develop your own GitHub README game!</a>
@@ -75,7 +75,7 @@ Databases:
       </tr>
       <tr>
         <td>
-          <a href="https://thotflow.xyz/posts/locus-of-control/">Locus of Control</a>
+          <a href="https://mindflux.xyz/posts/locus-of-control/">Locus of Control</a>
         </td>
         <td>
           <a href="https://rijuth.hashnode.dev/google-sign-in-with-getx">Firebase Authentication with GetX - Google Sign-in</a>
@@ -83,7 +83,7 @@ Databases:
       </tr>
       <tr>
         <td>
-          <a href="https://thotflow.xyz/posts/motivation-is-stupid/">Motivation is stupid.</a>
+          <a href="https://mindflux.xyz/posts/motivation-is-stupid/">Motivation is stupid.</a>
         </td>
         <td>
           <a href="https://rijuth.hashnode.dev/diffie-hellman-exchange">Understanding Diffie-Hellman Key Exchange</a>
@@ -91,7 +91,7 @@ Databases:
       </tr>
       <tr>
         <td>
-          <a href="https://thotflow.xyz">Click here for more! :zap: </a>
+          <a href="https://mindflux.xyz">Click here for more! :zap: </a>
         </td>
         <td>
           <a href="https://rijuth.hashnode.dev">Click here for more! :zap: </a>
