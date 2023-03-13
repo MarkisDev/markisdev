@@ -33,16 +33,16 @@ class BlogUpdater:
                 for i in feed[:5]]
 
     def genRecentPosts(self):
-        thotflow = self.getPosts('https://thotflow.xyz/index.xml')
+        mindflux = self.getPosts('https://mindflux.xyz/index.xml')
         hashnode = self.getPosts('https://rijuth.hashnode.dev/rss.xml')
         com = 'BLOGS'
-        outerTab = table(tr(th('Thotflow'), th('Hashnode')))
+        outerTab = table(tr(th('Mindflux'), th('Hashnode')))
         with outerTab:
-            for i in range(min(len(thotflow), len(hashnode))):
+            for i in range(min(len(mindflux), len(hashnode))):
                 with outerTab:
-                    tr(td(a(thotflow[i]['title'], href=thotflow[i]['link'])), td(
+                    tr(td(a(mindflux[i]['title'], href=mindflux[i]['link'])), td(
                         a(hashnode[i]['title'], href=hashnode[i]['link'])))
-        outerTab.add(tr(td(a('Click here for more! :zap: ', href='https://thotflow.xyz')),
+        outerTab.add(tr(td(a('Click here for more! :zap: ', href='https://mindflux.xyz')),
                      td(a('Click here for more! :zap: ', href='https://rijuth.hashnode.dev'))))
         outerTab = details(
             summary(b(':rocket: Click here for my blogs')), br(), outerTab)
