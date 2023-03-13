@@ -1,6 +1,7 @@
 name: Update Blogs
 
 on:
+  workflow_dispatch:
   issues:
     types: [opened]
   schedule:
