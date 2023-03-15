@@ -67,7 +67,7 @@ Databases:
       </tr>
       <tr>
         <td>
-          <a href="https://mindflux.xyz/posts/detachment/">Detachment - What?</a>
+          <a href="https://mindflux.xyz/posts/shiny-object-syndrome-is-spoiling-you/">Shiny Object Syndrome is spoiling you!</a>
         </td>
         <td>
           <a href="https://rijuth.hashnode.dev/develop-your-own-github-readme-game">Develop your own GitHub README game!</a>
