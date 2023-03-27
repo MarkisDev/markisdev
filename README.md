@@ -67,7 +67,7 @@ Databases:
       </tr>
       <tr>
         <td>
-          <a href="https://mindflux.xyz/posts/shiny-object-syndrome-is-spoiling-you/">Shiny Object Syndrome is spoiling you!</a>
+          <a href="https://mindflux.xyz/posts/be-grateful-if-youre-lonely/">Be grateful if you're lonely!</a>
         </td>
         <td>
           <a href="https://rijuth.hashnode.dev/develop-your-own-github-readme-game">Develop your own GitHub README game!</a>
@@ -75,7 +75,7 @@ Databases:
       </tr>
       <tr>
         <td>
-          <a href="https://mindflux.xyz/posts/locus-of-control/">Locus of Control</a>
+          <a href="https://mindflux.xyz/posts/shiny-object-syndrome-is-spoiling-you/">Shiny Object Syndrome is spoiling you!</a>
         </td>
         <td>
           <a href="https://rijuth.hashnode.dev/google-sign-in-with-getx">Firebase Authentication with GetX - Google Sign-in</a>
@@ -83,7 +83,7 @@ Databases:
       </tr>
       <tr>
         <td>
-          <a href="https://mindflux.xyz/posts/motivation-is-stupid/">Motivation is stupid.</a>
+          <a href="https://mindflux.xyz/posts/locus-of-control/">Locus of Control</a>
         </td>
         <td>
           <a href="https://rijuth.hashnode.dev/diffie-hellman-exchange">Understanding Diffie-Hellman Key Exchange</a>
