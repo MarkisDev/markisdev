@@ -117,7 +117,7 @@ Databases:
   <div>
     <p>
       <img src="https://img.shields.io/badge/Moves%20played-116-blue?style=for-the-badge">
-      <img src="https://img.shields.io/badge/Completed%20games-7-brightgreen?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Completed%20games-8-brightgreen?style=for-the-badge">
       <img src="https://img.shields.io/badge/Total%20players-3-blueviolet?style=for-the-badge">
     </p>
     <p>
@@ -146,7 +146,7 @@ Databases:
     <table>
       <tr>
         <th>Position : 0
-          <th>Color : 2</th>
+          <th>Color : 0</th>
         </th>
       </tr>
     </table>
@@ -155,100 +155,100 @@ Databases:
     <table>
       <tr>
         <th>
-          <img src="images/orange.png">
+          <img src="images/blank.png">
         </th>
         <th>
-          <img src="images/orange.png">
+          <img src="images/blank.png">
         </th>
         <th>
-          <img src="images/orange.png">
+          <img src="images/blank.png">
         </th>
         <th>
-          <img src="images/red.png">
+          <img src="images/blank.png">
         </th>
       </tr>
       <tr>
         <td>
-          <img src="images/blue.png">
+          <img src="images/blank.png">
         </td>
         <td>
-          <img src="images/white.png">
+          <img src="images/blank.png">
         </td>
         <td>
-          <img src="images/green.png">
+          <img src="images/blank.png">
         </td>
         <td>
-          <img src="images/purple.png">
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <img src="images/white.png">
-        </td>
-        <td>
-          <img src="images/white.png">
-        </td>
-        <td>
-          <img src="images/purple.png">
-        </td>
-        <td>
-          <img src="images/green.png">
+          <img src="images/blank.png">
         </td>
       </tr>
       <tr>
         <td>
-          <img src="images/white.png">
+          <img src="images/blank.png">
         </td>
         <td>
-          <img src="images/blue.png">
+          <img src="images/blank.png">
         </td>
         <td>
-          <img src="images/blue.png">
+          <img src="images/blank.png">
         </td>
         <td>
-          <img src="images/orange.png">
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <img src="images/green.png">
-        </td>
-        <td>
-          <img src="images/blue.png">
-        </td>
-        <td>
-          <img src="images/orange.png">
-        </td>
-        <td>
-          <img src="images/purple.png">
+          <img src="images/blank.png">
         </td>
       </tr>
       <tr>
         <td>
-          <img src="images/red.png">
+          <img src="images/blank.png">
         </td>
         <td>
-          <img src="images/blue.png">
+          <img src="images/blank.png">
         </td>
         <td>
-          <img src="images/orange.png">
+          <img src="images/blank.png">
         </td>
         <td>
-          <img src="images/blue.png">
+          <img src="images/blank.png">
         </td>
       </tr>
       <tr>
         <td>
-          <img src="images/blue.png">
+          <img src="images/blank.png">
         </td>
         <td>
-          <img src="images/white.png">
+          <img src="images/blank.png">
         </td>
         <td>
-          <img src="images/blue.png">
+          <img src="images/blank.png">
         </td>
         <td>
-          <img src="images/red.png">
+          <img src="images/blank.png">
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <img src="images/blank.png">
+        </td>
+        <td>
+          <img src="images/blank.png">
+        </td>
+        <td>
+          <img src="images/blank.png">
+        </td>
+        <td>
+          <img src="images/blank.png">
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <img src="images/blank.png">
+        </td>
+        <td>
+          <img src="images/blank.png">
+        </td>
+        <td>
+          <img src="images/blank.png">
+        </td>
+        <td>
+          <img src="images/blank.png">
         </td>
       </tr>
     </table>
