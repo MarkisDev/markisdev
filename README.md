@@ -146,7 +146,7 @@ Databases:
     <table>
       <tr>
         <th>Position : 0
-          <th>Color : 0</th>
+          <th>Color : 1</th>
         </th>
       </tr>
     </table>
