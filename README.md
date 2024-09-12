@@ -116,7 +116,7 @@ Databases:
   <!--BEGIN METADATA-->
   <div>
     <p>
-      <img src="https://img.shields.io/badge/Moves%20played-119-blue?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Moves%20played-120-blue?style=for-the-badge">
       <img src="https://img.shields.io/badge/Completed%20games-8-brightgreen?style=for-the-badge">
       <img src="https://img.shields.io/badge/Total%20players-3-blueviolet?style=for-the-badge">
     </p>
@@ -164,7 +164,7 @@ Databases:
           <img src="images/white.png">
         </th>
         <th>
-          <img src="images/blank.png">
+          <img src="images/blue.png">
         </th>
       </tr>
       <tr>
@@ -311,6 +311,14 @@ To make a move, click on **one of the colors** from below :point_down:
       </tr>
       <tr>
         <td>
+          <a href="https://github.com/manya7s">@manya7s</a>
+        </td>
+        <td>
+          <img src="images/blue.png">
+        </td>
+      </tr>
+      <tr>
+        <td>
           <a href="https://github.com/MrStuffmaker">@MrStuffmaker</a>
         </td>
         <td>
@@ -323,14 +331,6 @@ To make a move, click on **one of the colors** from below :point_down:
         </td>
         <td>
           <img src="images/red.png">
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a href="https://github.com/HamzaGSopp">@HamzaGSopp</a>
-        </td>
-        <td>
-          <img src="images/blue.png">
         </td>
       </tr>
     </table>
