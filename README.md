@@ -10,7 +10,7 @@
 
 Hey there! I'm currently pursuing my bachelors degree in CSE from _CMR Institute of Technology, Bengaluru_.  
 I'm extremely passionate about technology and love building products! Currently, I'm a **full-stack developer** with a keen interest in web3.  
-Other than that, I enjoy writing a lot - I write technical content [here](https://rijuth.hashnode.dev) and on quirky topics at my personal blog [here](https://thotflow.xyz).
+Other than that, I enjoy writing a lot - I write technical content [here](https://rijuth.hashnode.dev) and on quirky topics at my personal blog [here](https://blog.markis.dev).
 
 Feel free to reach me, I'm always up for a fun conversation!
 
