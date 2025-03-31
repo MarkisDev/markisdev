@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rijuthmenon/)
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.io/dev)
 [![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://rijuth.hashnode.dev)
-[![Mindflux Badge](https://img.shields.io/badge/MINDFLUX-1D1E20?style=for-the-badge&logoColor=white)](https://mindflux.xyz)
+[![Mindflux Badge](https://img.shields.io/badge/MINDFLUX-1D1E20?style=for-the-badge&logoColor=white)](https://blog.markis.dev)
 [![BuyMeACoffee Badge](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/markisdev)
 
 Hey there! I'm currently pursuing my bachelors degree in CSE from _CMR Institute of Technology, Bengaluru_.  
