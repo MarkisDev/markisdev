@@ -33,7 +33,7 @@ class BlogUpdater:
                 for i in feed[:5]]
 
     def genRecentPosts(self):
-        mindflux = self.getPosts('https://mindflux.xyz/index.xml')
+        mindflux = self.getPosts('https://blog.markis.dev/index.xml')
         hashnode = self.getPosts('https://rijuth.hashnode.dev/rss.xml')
         com = 'BLOGS'
         outerTab = table(tr(th('Mindflux'), th('Hashnode')))
