@@ -42,7 +42,7 @@ class BlogUpdater:
                 with outerTab:
                     tr(td(a(mindflux[i]['title'], href=mindflux[i]['link'])), td(
                         a(hashnode[i]['title'], href=hashnode[i]['link'])))
-        outerTab.add(tr(td(a('Click here for more! :zap: ', href='https://mindflux.xyz')),
+        outerTab.add(tr(td(a('Click here for more! :zap: ', href='https://blog.markis.dev')),
                      td(a('Click here for more! :zap: ', href='https://rijuth.hashnode.dev'))))
         outerTab = details(
             summary(b(':rocket: Click here for my blogs')), br(), outerTab)
