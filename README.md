@@ -67,7 +67,7 @@ Databases:
       </tr>
       <tr>
         <td>
-          <a href="https://mindflux.xyz">Click here for more! :zap: </a>
+          <a href="https://blog.markis.dev">Click here for more! :zap: </a>
         </td>
         <td>
           <a href="https://rijuth.hashnode.dev">Click here for more! :zap: </a>
