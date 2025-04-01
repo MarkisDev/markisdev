@@ -67,38 +67,6 @@ Databases:
       </tr>
       <tr>
         <td>
-          <a href="https://mindflux.xyz/posts/exploring-confirmaton-bias/">Exploring Confirmaton Bias</a>
-        </td>
-        <td>
-          <a href="https://rijuth.hashnode.dev/building-ml-powered-cross-platform-apps-with-flutter-and-googles-ml-kit">Building ML-powered cross-platform apps with Flutter and Google's ML Kit!</a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a href="https://mindflux.xyz/posts/the-paradox-of-choice/">The Paradox of Choice</a>
-        </td>
-        <td>
-          <a href="https://rijuth.hashnode.dev/develop-your-own-github-readme-game">Develop your own GitHub README game!</a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a href="https://mindflux.xyz/posts/intellectual-stimulation-is-your-enemy/">Intellectual stimulation is your enemy!</a>
-        </td>
-        <td>
-          <a href="https://rijuth.hashnode.dev/google-sign-in-with-getx">Firebase Authentication with GetX - Google Sign-in</a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a href="https://mindflux.xyz/posts/be-grateful-if-youre-lonely/">Be grateful if you're lonely!</a>
-        </td>
-        <td>
-          <a href="https://rijuth.hashnode.dev/diffie-hellman-exchange">Understanding Diffie-Hellman Key Exchange</a>
-        </td>
-      </tr>
-      <tr>
-        <td>
           <a href="https://mindflux.xyz">Click here for more! :zap: </a>
         </td>
         <td>
